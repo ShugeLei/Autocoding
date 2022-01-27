@@ -1,0 +1,136 @@
+,entities,negations
+0,br/>obtained,False
+1,bony mineralization,False
+2,arterial calcification,False
+3,br/>similar,False
+4,fractures,True
+5,dislocations,True
+6,subchondral cysts,False
+7,trauma,False
+8,fracture,False
+9,fracture,True
+10,Impression:<br/,True
+11,12/1/2011,True
+12,br/>There,True
+13,fractures,True
+14,dislocations,True
+15,fracture,True
+16,fracture,True
+17,Tracheobronchial tree is patent.,False
+18,pleural pericardial effusions,True
+19,pleural thickening,False
+20,mediastinal lymphadenopathy,True
+21,fracture,True
+22,br/>fracture,False
+23,fracture,False
+24,fracture,False
+25,br/>There,False
+26,fracture,False
+27,noted.<br/>The,False
+28,atelectasis,False
+29,thoracic <br/>spine,False
+30,acute cardiopulmonary disease,True
+31,fracture,True
+32,congestive failure,True
+33,br/>is,False
+34,adenopathy,True
+35,pleural effusion,True
+36,fractures,False
+37,fracture,False
+38,cardiopulmonary disease,True
+39,MP,False
+40,br/>Summary,False
+41,fracture,True
+42,fracture,True
+43,SI joints,False
+44,br/>Summary,False
+45,fracture,True
+46,br/>radiographs,True
+47,fracture,True
+48,fracture,False
+49,intrasubstance degeneration,False
+50,br/>Ligaments,False
+51,ACL,False
+52,PCL,False
+53,br/>and,False
+54,br/>changes,False
+55,cartilage loss,False
+56,br/>is,False
+57,br/>femur hairline fracture,False
+58,br/>vein,False
+59,hydronephrosis,True
+60,hypoechogenic lesion,False
+61,aneurysm,False
+62,br/>Heterogeneous,False
+63,aneurysm,False
+64,fracture,True
+65,fracture,True
+66,br/>Clips,False
+67,br/>1,False
+68,fracture,True
+69,br/>dislocated fracture,False
+70,fracture,False
+71,osteopenia,False
+72,L1-2 compression fracture,False
+73,Impression:<br/>Routine,False
+74,fracture,True
+75,dislocation,True
+76,br/>foreign,True
+77,swelling,False
+78,br/>there,False
+79,fracture,True
+80,calcification of the coronary arteries,False
+81,calcification of the aorta,False
+82,br/>The,False
+83,br/>There,False
+84,fracture,False
+85,osteopenia,False
+86,br/>intertrochanteric fracture,False
+87,left subcapital fracture,False
+88,fracture,False
+89,br/>and,False
+90,fracture,True
+91,rib abnormality,True
+92,pneumothorax,True
+93,pleural effusion,True
+94,congestive failure,True
+95,pneumothorax,False
+96,pleural effusion,False
+97,cardiopulmonary disease,True
+98,br/>than,False
+99,fracture,True
+100,degenerative arthropathy,False
+101,fracture,True
+102,br/>supraspinatus,True
+103,br/>of,False
+104,fatty atrophy,False
+105,fatty atrophy,False
+106,muscular fatty atrophy,False
+107,br/>is,False
+108,tendinopathy,False
+109,fracture,True
+110,fracture,False
+111,examination.<br/,True
+112,fracture,True
+113,5/23/2011,True
+114,br/>The,False
+115,congestive failure,True
+116,br/>is,False
+117,adenopathy,True
+118,pleural effusion,True
+119,cardiopulmonary disease,False
+120,fracture,True
+121,6/16/2066,True
+122,comminuted,False
+123,fracture,False
+124,fracture,False
+125,fracture,False
+126,pain,False
+127,fractures,False
+128,hemothorax,True
+129,fracture,False
+130,fracture,False
+131,br/>for hydronephrosis,True
+132,Gallbladder and pancreas,False
+133,aneurysm,True
+134,fracture,True
